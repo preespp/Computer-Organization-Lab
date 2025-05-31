@@ -4,9 +4,7 @@
 
 Lab 1: C and CPU
 
-Lab 2: Assembly Language I
-
-Lab 3: Assembly Language II
+Lab 2-3: Assembly Language and QtSpim
 
 ## Verilog - CPU Design
 
